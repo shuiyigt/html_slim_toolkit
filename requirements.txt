@@ -1,0 +1,2 @@
+wordninja
+beautifulsoup4
